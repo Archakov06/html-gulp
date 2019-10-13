@@ -1,0 +1,14 @@
+{
+  "name": "html-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "less": "gulp less",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-less": "^4.0.1"
+  }
+}
